@@ -1,1 +1,1 @@
-# Mi-configuraci-n-de-neovim
+# Mi-configuracion-de-neovim
