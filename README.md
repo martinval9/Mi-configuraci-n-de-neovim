@@ -10,7 +10,9 @@ mkdir nvim && cd
 
 cd Mi-configuracion-de-neovim
 
-cp init.vim /home/nombreusuario/.config/nvim
+cp init.vim /home/nombreusuario/.config/nvim && cd
+
+cd .config/nombreusuario/nvim
 
 nvim
 
