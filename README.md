@@ -1,6 +1,6 @@
 # Mi-configuracion-de-neovim
 
-![Preview Image](https://github.com/martinval9/Mi-configuracion-de-neovim/blob/vim_scr.png)
+![Preview Image](https://github.com/martinval9/Mi-configuracion-de-neovim/blob/main/vim_scr.png)
 
 git clone https://github.com/martinval9/Mi-configuracion-de-neovim
 
