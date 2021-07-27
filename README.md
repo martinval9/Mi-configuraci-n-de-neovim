@@ -12,7 +12,7 @@ cd Mi-configuracion-de-neovim
 
 cp init.vim /home/nombreusuario/.config/nvim && cd
 
-cd .config/nombreusuario/nvim
+cd .config/nvim
 
 nvim
 
