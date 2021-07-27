@@ -16,6 +16,8 @@ cd .config/nvim
 
 nvim
 
+:PlugInstall
+
 :so init.vim
 
 Esta configuración también funciona para el vim normal
